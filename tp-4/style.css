@@ -1,8 +1,9 @@
 @media (min-width: 400px) {
-  #cuerpo {backgorund-color: rgb(40,60,80) }
+#cuerpo {backgorund-color: rgb(40,60,80) }
 }
 @media (max-width: 800px) {
 #cuerpo h1 {align-self: center}
+}
  @media (orientacion: lanscape) {
    article {max-widht: 50ch}
  }
