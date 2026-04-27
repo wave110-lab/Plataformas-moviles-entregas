@@ -8,16 +8,16 @@
 article {max-widht: 50ch}
  }
  @media (min-height: 200px) {
- #cuerpo h1 {background-color: brown; }
+ #cuerpo h1 {background-color: cian; }
   }
   @media print {
   p {font-family: serif}
   }
   @media (prefers-color-scheme: light){
-    #body {background-color: #DDD;
-           color: #111;}
-   h1 {background-color: #DDD;
-       color: #111;}}
+    #body {background-color: #DD;
+           color: #11;}
+   h1 {background-color: #DD;
+       color: #11;}}
 
    @media screen and (hover:none) {
     a { color: #212;
@@ -36,5 +36,5 @@ article {max-widht: 50ch}
          ibject-fit: cover;}
   }
   @media (-webkit-min-device-pixel-ratio-: 2){
-    article {backgorund-color: #1E00FF;}
+    article {backgorund-color: #FF36B5;}
   }
